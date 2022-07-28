@@ -2,4 +2,4 @@
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=hohnuki&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/hohnuki/)
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hohnuki&layout=compact&theme=tokyonight%20Python%23)](https://github.com/hohnuki/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hohnuki&layout=compact&theme=tokyonight%20python%23)](https://github.com/hohnuki/)
